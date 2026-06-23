@@ -29,7 +29,7 @@ export default function DisclaimerPage() {
         <p>This site may contain links to third-party websites. We are not responsible for the content or practices of any linked site.</p>
 
         <h2 className="text-xl font-bold text-gray-800 mt-4">Contact</h2>
-        <p>For questions about this disclaimer, contact us at <a href="mailto:hello@myhealthyday.in" className="text-green-600">hello@myhealthyday.in</a>.</p>
+        <p>For questions about this disclaimer, contact us at <a href="mailto:myhealthyday.in@gmail.com" className="text-green-600">myhealthyday.in@gmail.com</a>.</p>
       </div>
     </div>
   );

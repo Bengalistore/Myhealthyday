@@ -9,7 +9,7 @@ export default function ContactPage() {
   return (
     <div className="max-w-2xl mx-auto px-4 py-14">
       <h1 className="text-3xl font-bold text-gray-800 mb-3">Contact Us</h1>
-      <p className="text-gray-500 mb-8 text-sm">Have a question, found an error, or want to work with us? We&apos;d love to hear from you.</p>
+      <p className="text-gray-500 mb-8 text-sm">Have a question, found an error We&apos;d love to hear from you.</p>
 
       <div className="bg-white border border-gray-100 rounded-2xl p-8 shadow-sm">
         <div className="space-y-4">
@@ -29,7 +29,7 @@ export default function ContactPage() {
             Send Message
           </button>
         </div>
-        <p className="text-xs text-gray-400 mt-4 text-center">Or email us directly at: <a href="mailto:hello@myhealthyday.in" className="text-green-600">hello@myhealthyday.in</a></p>
+        <p className="text-xs text-gray-400 mt-4 text-center">Or email us directly at: <a href="mailto:myhealthyday.in@gmail.com" className="text-green-600">myhealthyday.in@gmail.com</a></p>
       </div>
     </div>
   );
